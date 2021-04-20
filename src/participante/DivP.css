@@ -1,0 +1,50 @@
+/*.panelP{
+    display: block;
+    flex-direction: column;
+    justify-content: start;
+    width: 520px;
+    min-height: 600px;
+    background: #161a2b;
+    text-align: center;
+    margin: 128px;
+    border-radius: 10px;
+    padding-bottom: 32px;
+}
+*/
+
+.txt_teste{
+    display: none;
+    color: blanchedalmond;
+}
+
+.btn_teste{
+    display: block;
+    margin-top: 200px;
+    
+}
+
+
+.container{
+    color: burlywood;
+}
+
+.todoP{    
+     display: block;
+    left: 500;
+    width: 330px;
+    height:800px;
+    top: 0;
+    background-color: black;
+    flex-direction: column;
+    z-index: 49;
+}
+.todoP2{    
+    display: flex;
+   left: 5;
+   width: 100px;
+   height:200px;
+   top: 0;
+   background-color: rgb(91, 11, 219);
+   flex-direction: column;
+    z-index: 50;
+}
